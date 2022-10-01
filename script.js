@@ -9,3 +9,5 @@ console.log(x);
 console.log(y);
 console.log(person['favColor']);
 console.log(person.height);
+console.log(person.favColor.length);
+console.log(person.name.length);
